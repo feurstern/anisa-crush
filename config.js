@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "My crush",
     introTitle: 'Hi Anisa, I want to say something ',
-    introDesc: `Btw, please explore the website and you have answer by your honest feeling and perhaps for better experience you have to wear earphone.`,
+    introDesc: `Btw, please explore the website and you have to answer by your honest feeling and perhaps for better experience you have to wear earphone.`,
     btnIntro: 'Next',
     title: 'If I tell you who am I, do you wanna be my girlfriend?',
     desc: 'pick yesss button pleaseeee!',
